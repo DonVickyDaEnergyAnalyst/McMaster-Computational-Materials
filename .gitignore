@@ -1,0 +1,11 @@
+# Generated artefacts
+outputs*/
+*.png
+paper_table*.csv
+BRANN_paper_results.xlsx
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Note: data/ is intentionally NOT ignored. The experimental datasets are
+# included with this submission with the permission of my co-authors.
